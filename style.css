@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 25px} 
+
+img:hover{
+    border-radius: 190px;
+    box-shadow: 15px 20px 20px black;
+    margin-bottom: 10px;
+    
+    
+}
